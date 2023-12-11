@@ -1,0 +1,14 @@
+{
+  "development": {
+    "url": "DB_STRING",
+    "dialect": "postgres"
+  },
+  "test": {
+    "url": "DB_STRING",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "DB_STRING",
+    "dialect": "postgres"
+  }
+}

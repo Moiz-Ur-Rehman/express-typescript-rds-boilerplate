@@ -1,1 +1,1 @@
-# ecommerce-backend
+# express-typescript-rds-boilerplate
